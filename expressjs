@@ -1,0 +1,9 @@
+1. npm install -g express-generator
+
+2. express first-express-app
+
+3. cd first-express-app
+
+4. npm install
+
+5. npm start
